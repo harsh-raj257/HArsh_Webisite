@@ -1,11 +1,20 @@
 body{
   background-color: #DAEAF1;
 font-family: 'Open Sans', sans-serif;
+width: 50%;
+margin: 100px auto 100px auto;
+text-align: left;
+line-height: 3;
 }
 .top-container{
   margin: 100px;
 }
-
+.contact-me{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 3;
+}
 .pro{
   text-decoration: underline;
   color: #554994;
@@ -13,20 +22,27 @@ display: inline-block;
 
 
 }
+
 .icon1{
   width: 200px;
   height: 200px;
 }
+.icon4{
+  width: 200px;
+  height: 200px;
+
+}
 .icon2{
   width: 200px;
   height: 200px;
-float :left;
+  float: left;
+margin-right: 20px;
 }
 .icon3{
   width: 200px;
   height: 200px;
-float:right;
-
+margin-left: 20px;
+float: right;
 }
 
 .bottom{
@@ -40,10 +56,10 @@ position: absolute;
 }
 .skill-row{
 
-width: 50%;
+width: 70%;
 margin: 100px auto 100px auto;
 text-align: left;
-line-height: 2
+line-height: 3;
 }
 .bio{
   font-family: 'Silkscreen', cursive;
@@ -65,4 +81,5 @@ h3{
 }
 h2{
   font-weight: bolder;
+  color: #66BFBF;
 }
