@@ -20,12 +20,12 @@ display: inline-block;
 .icon2{
   width: 200px;
   height: 200px;
-
+float :left;
 }
 .icon3{
   width: 200px;
   height: 200px;
-
+float:right;
 
 }
 
