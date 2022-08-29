@@ -1,5 +1,5 @@
 body{
-  background-color: #B5EAEA;
+  background-color: #DAEAF1;
 font-family: 'Open Sans', sans-serif;
 }
 .top-container{
@@ -10,7 +10,25 @@ font-family: 'Open Sans', sans-serif;
   text-decoration: underline;
   color: #554994;
 display: inline-block;
+
+
 }
+.icon1{
+  width: 200px;
+  height: 200px;
+}
+.icon2{
+  width: 200px;
+  height: 200px;
+
+}
+.icon3{
+  width: 200px;
+  height: 200px;
+
+
+}
+
 .bottom{
 position: absolute;
 
@@ -20,10 +38,31 @@ position: absolute;
   left: 200px;
 
 }
+.skill-row{
+
+width: 50%;
+margin: 100px auto 100px auto;
+text-align: left;
+line-height: 2
+}
 .bio{
   font-family: 'Silkscreen', cursive;
+  font-size: 1.5rem;
 }
 h1{
-  font-size:80px;
+  margin: 40px auto 0 auto;
+  font-size: 5em;
   font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+  line-height:1;
+
+}
+h3{
+  color: #11999E;
+}
+.footer-link{
+  color: #11999E;
+}
+h2{
+  font-weight: bolder;
 }
