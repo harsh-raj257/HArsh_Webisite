@@ -1,0 +1,28 @@
+body{
+  background-color: #B5EAEA;
+font-family: 'Open Sans', sans-serif;
+}
+.top-container{
+  margin: 100px;
+}
+
+.pro{
+  text-decoration: underline;
+  color: #554994;
+display: inline-block;
+}
+.bottom{
+position: absolute;
+
+}
+.upper{
+  position: relative;
+  left: 200px;
+
+}
+.bio{
+  font-family: 'Silkscreen', cursive;
+}
+h1{
+  font-family: 'Sacramento', cursive;
+}
